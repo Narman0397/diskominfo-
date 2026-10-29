@@ -1,0 +1,9 @@
+{
+  // ...
+  "vars": {
+    "SUPABASE_PUBLISHABLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5a2Vkdm16emJoZHJ0c3VocGJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMyMjkxMTksImV4cCI6MjEwODgwNTExOX0.jwaBCcDrP9oCsydMdvyZ5MoPgWumgGW78Dbs39shhtI",
+    "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5a2Vkdm16emJoZHJ0c3VocGJ2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc5MzIyOTExOSwiZXhwIjoyMTA4ODA1MTE5fQ.en4NKFh9WLYFDMQ9srNEVA5QzsMh1-EO_dWjqHRF-60",
+    "SUPABASE_URL": "https://cykedvmzzbhdrtsuhpbv.supabase.co"
+  },
+  // ...
+}
